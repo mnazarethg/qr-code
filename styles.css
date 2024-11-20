@@ -30,7 +30,7 @@
   }
   
   .qr-image {
-    background-image: url('./images/image-qr-code.png'); /* Replace with the path to your QR code image */
+    background-image: url('./images/image-qr-code.png'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
